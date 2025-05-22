@@ -1,5 +1,7 @@
 # The Site Configuration
 
+avatar: https://avatars.githubusercontent.com/u/77968543?s=400&u=9e42853ccf7a1bf562e5f00f7bb491764421f2ce&v=4
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
