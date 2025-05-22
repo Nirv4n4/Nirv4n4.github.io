@@ -18,9 +18,10 @@ timezone: Europe/Brussels
 
 title: Home | Nirv4na's Awesome Site
 
-tagline: • Penetration Tester
-• Future OSCP
-• CTF Player
+tagline: |
+  Penetration Tester
+  Future OSCP
+  CTF Player
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
